@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/motorola/penangf
+LOCAL_PATH := device/motorola/vicky
 
 # Dynamic Partitions
 PRODUCT_USE_DYNAMIC_PARTITIONS := true
